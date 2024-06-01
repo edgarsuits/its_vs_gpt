@@ -3,7 +3,7 @@
 
 
 ## Introduction
-Welcome to the ultimate showdown in educational theory and artificial intelligence: **Innovative Teaching Systems (ITS) versus Generative Pre-trained Transformers (GPT)**. This series explores foundational and advanced concepts through a staged battle format, where each round delves deeper into the heart of mathematical and technological prowess.
+Welcome to the ultimate showdown in educational theory and artificial intelligence: **Innovative Teaching Systems (ITS) versus Generative Pre-trained Transformers (GPT)**. 
 
 ## Round Zero: Exponential Equation Common Base
 ### The Arena
