@@ -1,0 +1,12 @@
+langchain
+langchain-openai
+langchain-google-genai
+langchain-anthropic
+langchain_community
+python-dotenv
+sympy
+#git@github.com-work:Teachable-AI-Lab/apprentice-tutors.git
+py_rete
+flask_sqlalchemy
+flask_login
+replicate
